@@ -1,3 +1,10 @@
+
+#Este código permite realizar análisis univariados, bivariados y multivariados para evaluar 
+#el comportamiento de los Cts relacionados con diferentes aspectos clinicos y epidemiológicis.
+
+
+#Realizado por Sergio Castañeda. Universidad del Rosario. Centro de Investigaciones en Microbiología y Biotecnología UR. CIMBIUR
+
 library(readxl)
 library(readxl)
 library(tidyverse)
