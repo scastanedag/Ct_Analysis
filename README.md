@@ -23,12 +23,19 @@ Este código permite realizar análisis univariados, bivariados y multivariados 
 Permite realizar:
 
 -Cálculos de normalidad
+
 -Medidas de tendencia central y dispersión
+
 -Test no paramétricos para comparación de grupos (Wilcoxon test - Kruskall Wallis)
+
 -Correlación de Pearson para comparar Cts entre grupos en los que se encontró dif significativas
+
 -Boxplots para comparar Cts entre grupos en los que se encontró dif significativas
+
 -Análisis de correlación a partir de la construcción de modelos de regresión lineal para determinar el valor de R2
+
 -Tablas de contingencia y chi cuadrado 
+
 -Análisis de regresión lineal
 
 
